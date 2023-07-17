@@ -1,0 +1,15 @@
+C:\Users\ps4ki\Documents\Progs\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+C:\Users\ps4ki\Documents\Progs\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+C:\Users\ps4ki\Documents\Progs\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+C:\Users\ps4ki\Documents\Progs\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+C:\Users\ps4ki\Documents\Progs\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+C:\Users\ps4ki\Documents\Progs\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ps4ki\Documents\Progs\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ps4ki\Documents\Progs\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ps4ki\Documents\Progs\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\ps4ki\Documents\Progs\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ps4ki\Documents\Progs\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+C:\Users\ps4ki\Documents\Progs\ConsoleApp\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+C:\Users\ps4ki\Documents\Progs\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+C:\Users\ps4ki\Documents\Progs\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\ps4ki\Documents\Progs\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
